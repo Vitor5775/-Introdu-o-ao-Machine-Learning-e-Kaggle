@@ -6,7 +6,7 @@
   1. Base de Dados Escolhida:
      
     Nome: DeepSeek vs ChatGPT: Comparação de plataformas de IA
-    Link no Kaggle: DeepSeek vs ChatGPT Dataset
+    Link no Kaggle: [DeepSeek vs ChatGPT Dataset](https://www.kaggle.com/datasets/khanaakif/deepseek-vs-chatgpt-ai-platform-comparison/data)
   
   Descrição:
   O conjunto de dados contém interações sintéticas de usuários com duas plataformas de IA (ChatGPT - GPT-4-turbo e DeepSeek - DeepSeek-Chat 1.5) ao longo de 18 meses (julho/2023 a fevereiro/2025).
