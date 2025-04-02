@@ -38,10 +38,10 @@
   
   2. Técnica de Machine Learning Escolhida:
      
-         Classificação Binária (Logistic Regression ou Random Forest)
-          Justificativa:
-          O objetivo é prever qual plataforma (DeepSeek ou ChatGPT) terá melhor desempenho em uma determinada interação, com base em:
-  
+    Classificação Binária (Logistic Regression ou Random Forest)
+    Justificativa:
+    O objetivo é prever qual plataforma (DeepSeek ou ChatGPT) terá melhor desempenho em uma determinada interação, com base em:
+    
     Tipo de consulta (Query_Type)
   
     Dispositivo (Device_Type)
