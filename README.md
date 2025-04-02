@@ -6,6 +6,7 @@
   1. Base de Dados Escolhida:
      
    Nome: DeepSeek vs ChatGPT: Comparação de plataformas de IA
+   
    Link no Kaggle: https://www.kaggle.com/datasets/khanaakif/deepseek-vs-chatgpt-ai-platform-comparison/data
   
   Descrição:
