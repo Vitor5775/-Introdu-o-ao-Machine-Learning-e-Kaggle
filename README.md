@@ -1,7 +1,7 @@
 # Introdução ao Machine Learning e Kaggle
 
 
-Comparação de Desempenho entre DeepSeek e ChatGPT usando Machine Learning
+  Comparação de Desempenho entre DeepSeek e ChatGPT usando Machine Learning
   1. Base de Dados Escolhida
   Nome: DeepSeek vs ChatGPT: Comparação de plataformas de IA
   Link no Kaggle: DeepSeek vs ChatGPT Dataset
