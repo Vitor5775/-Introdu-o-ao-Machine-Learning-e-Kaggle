@@ -94,7 +94,8 @@
   
   Gerar insights para otimização de plataformas de IA.
   
-  5. Conclusão
+  5. Conclusão:
+     
     Comparação objetiva entre DeepSeek e ChatGPT.
     Identificação de pontos fortes e fracos de cada modelo.
     Aplicação em recomendações para usuários (ex.: qual IA usar para perguntas técnicas vs. criativas).
