@@ -11,7 +11,7 @@
   Descrição:
   O conjunto de dados contém interações sintéticas de usuários com duas plataformas de IA (ChatGPT - GPT-4-turbo e DeepSeek - DeepSeek-Chat 1.5) ao longo de 18 meses (julho/2023 a fevereiro/2025).
   
-    Principais características:
+  Principais características
   
     Métricas de Desempenho:
   
